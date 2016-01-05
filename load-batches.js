@@ -1,4 +1,4 @@
-var level = require('level')
+var level = require('levelup')
 var fs = require('fs')
 var path = require('path')
 var stats = require('stats-lite')
